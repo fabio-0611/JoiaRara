@@ -1,0 +1,34 @@
+@media screen and (max-width:400px){
+    header {
+    
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 100px;
+    }
+    
+}
+
+@media screen and (min-width:1000px){
+    .descricao {
+        width: 50%;
+    }
+}
+@media(max-width:400px){
+    nav{
+        background: gray;
+        flex-direction: column;
+    }
+    .nav-enlace{
+        margin: 10px 0px;
+
+    }
+     
+}
+@media screen and (min-width:
+1024px) {
+ #main { min-width: 1000px; }
+}
+
